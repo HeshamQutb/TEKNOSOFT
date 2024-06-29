@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the work completed during my Flutter internship at TeknoSoft. Throughout this experience, I deepened my understanding of Flutter and mobile application development, honed my problem-solving skills, and collaborated with a team of dedicated professionals.
+This repository contains the work completed during my Flutter internship at TeknoSoft. Throughout this experience, I deepened my understanding of Flutter and mobile application development, honed my problem-solving skills.
 
 ## Internship Experience
 
@@ -10,7 +10,6 @@ During this internship, I had the opportunity to work on several challenging and
 
 - **Advanced Flutter Skills**: Gained in-depth knowledge of Flutter, including widget creation, state management, and best practices for building scalable and maintainable applications.
 - **Cross-Platform Development**: Learned to efficiently develop and deploy applications across multiple platforms, ensuring a consistent user experience.
-- **Collaborative Development**: Worked closely with a team, improving my communication and teamwork skills, and contributing to successful project outcomes.
 - **Problem-Solving**: Tackled various technical challenges, enhancing my ability to troubleshoot and solve complex issues effectively.
 
 ## Benefits
