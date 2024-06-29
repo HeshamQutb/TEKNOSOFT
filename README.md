@@ -1,7 +1,3 @@
-Here's a revised README file for your GitHub repository, focusing on your completion of the internship and the benefits gained:
-
----
-
 # Flutter Internship Project
 
 ## Overview
@@ -28,7 +24,7 @@ Completing this internship has equipped me with a strong foundation in Flutter d
 
 ## Certificate
 
-![Certificate](certificate.png)
+![Certificate](https://github.com/HeshamQutb/TEKNOSOFT/blob/main/72.png)
 
 ## Conclusion
 
